@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hard-news.github.io/ruang-berita/sitemap.xml
